@@ -27,9 +27,19 @@
     url: https://anthropology.northwestern.edu/people/faculty/katherine-amato.html
 
 "Ozga":
-  - firstname: ["A."]
+  - firstname: ["A.T.", "A."]
     url: https://andrewozga.com/
 
 "Lewis":
   - firstname: ["C.M."]
     url: https://cecilmlewis.com/about/
+
+"Hamer":
+  - firstname: ["S.A."]
+    url: https://vetmed.tamu.edu/hamer-lab/
+
+"Goldberg":
+  - firstname: ["T.L."]
+    url: https://www.vetmed.wisc.edu/goldberglab/
+
+
