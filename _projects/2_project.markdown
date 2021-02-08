@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Eukaryotes in the gut microbiome
+title: Eukaryotes in the primate gut
 description: 
 img: /assets/img/primate_map.png
 importance: 2
