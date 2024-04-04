@@ -12,7 +12,7 @@ nav: true
   <article class="post-content code clearfix">
 
 <h3>Mutational Distance from Modal Haplotype Calculator</h3>
-<a href="https://aemann01.shinyapps.io/mdmhistogram/"><img src="https://github.com/aemann01/aemann01.github.io/blob/source/assets/img/gitMDM.gif?raw=true" height="75%" width="75%" style="padding-bottom: 20px; padding-top: 20px"></a>
+<a href="https://aemann01.shinyapps.io/mdmhistogram/"><img src="https://github.com/aemann01/aemann01.github.io/blob/master/assets/img/gitMDM.gif?raw=true" height="75%" width="75%" style="padding-bottom: 20px; padding-top: 20px"></a>
 <br />
 Interactive shiny app that calculates the modal haplotype from Y chromosomal haplotype data and plots the mutational distance of each individual from that modal haplotype.
 <br />
