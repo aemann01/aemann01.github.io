@@ -4,6 +4,7 @@ permalink: /code/
 title: code
 description: Standalone programs for data analysis and/or visualization
 nav: true
+nav_order: 3
 ---
 
 <div class="page-content">

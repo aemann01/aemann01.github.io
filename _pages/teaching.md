@@ -4,6 +4,7 @@ permalink: /teaching/
 title: teaching
 description: 
 nav: true
+nav_order: 4
 ---
 
 <body>
@@ -102,9 +103,6 @@ target="_blank"><b>Course syllabus</b></a>.</li>
 </div>
 <hr>
 
-<h5>Other Teaching Material</h5>
-<li><a href="https://aemann01.github.io/assets/pdf/bioinformatics_cheat_sheet.pdf">Bioinformatics cheat sheet</a></li>
-<li><a href="http://christinawarinner.com/outreach/children/adventures-in-archaeological-science/">Adventures in Archaeological Science Coloring Book</a></li>
 
 <html>
 <head>
