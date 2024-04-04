@@ -1,34 +1,51 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Hofman":
+  - firstname: ["C.A."]
+    url: http://courtneyhofman.com/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Fellows Yates":
+  - firstname: ["J.A."]
+    url: http://www.jafy.eu/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Allen":
+  - firstname: ["M.S."]
+    url: https://experts.unthsc.edu/en/persons/michael-allen
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Parfrey":
+  - firstname: ["L."]
+    url: https://www.zoology.ubc.ca/~parfrey/parfrey_lab/people/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Mazel":
+  - firstname: ["F."]
+    url: https://florentmazel.weebly.com/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Warinner":
+  - firstname: ["C."]
+    url: http://christinawarinner.com/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Amato":
+  - firstname: ["K."]
+    url: https://anthropology.northwestern.edu/people/faculty/katherine-amato.html
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Ozga":
+  - firstname: ["A.T.", "A."]
+    url: https://andrewozga.com/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Lewis":
+  - firstname: ["C.M."]
+    url: https://cecilmlewis.com/about/
+
+"Hamer":
+  - firstname: ["S.A."]
+    url: https://vetmed.tamu.edu/hamer-lab/
+
+"Goldberg":
+  - firstname: ["T.L."]
+    url: https://www.vetmed.wisc.edu/goldberglab/
+
+"Richards":
+  - firstname: ["V.P."]
+    url: http://www.vprichards-lab.com/
+
+"Vonaesch":
+  - firstname: ["P."]
+    url: https://wp.unil.ch/vonaeschlab/

@@ -319,8 +319,18 @@ ul.task-list input[type="checkbox"] {
       &:hover {
         i::before {
           color: var(--global-theme-color);
+
         }
       }
+    }
+  }
+}
+
+.contact-icon {
+  font-size: 2rem;
+    a {
+    &:hover {
+    color: var(--global-hover-color);
     }
   }
 }
