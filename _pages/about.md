@@ -9,10 +9,9 @@ profile:
   image: profilepic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Clemson University,</p>
-    <p>Biological Sciences,</p>
-    <p>111 Jordan Hall,</p>
-    <p>Clemson, SC 29634</p>
+    <p>University of Wyoming,</p>
+    <p>Anthropology Department</p>
+    <p>Laramie, WY</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -21,8 +20,8 @@ social: false # includes social icons at the bottom of the page
 
 I'm a biological anthropologist interested in how microbes can help us better understand human evolution, health, history, behavior, and diversity. My research is focused on the interaction between cross-kingdom microbes in diverse host species including humans, non-human primates, and insect disease vectors. I study both living and archaeological populations to better understand how host associated microbial communities have changed over time. 
 
-Currently a postdoc at Clemson University studying oral microbiota in 
-children living with HIV.
+I will be starting as an Assistant Professor of Biological Anthropology at 
+the University of Wyoming starting this Fall, 2024!
 
 #### cool things I'm working on now:
 
