@@ -10,7 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>University of Wyoming,</p>
-    <p>Anthropology Department</p>
+    <p>1000 E. University Ave.</p>
+    <p>Dept. of Anthropology,</p>
+    <p>Frison Hall Room 210</p>
     <p>Laramie, WY</p>
 
 news: true # includes a list of news items
@@ -18,10 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm a biological anthropologist interested in how microbes can help us better understand human evolution, health, history, behavior, and diversity. My research is focused on the interaction between cross-kingdom microbes in diverse host species including humans, non-human primates, and insect disease vectors. I study both living and archaeological populations to better understand how host associated microbial communities have changed over time. 
-
-I will be starting as an Assistant Professor of Biological Anthropology at 
-the University of Wyoming starting this Fall, 2024!
+I'm an Assistant Professor of Biological Anthropology at the University of Wyoming interested in how microbes can help us better understand human evolution, health, history, behavior, and diversity. My research is focused on the interaction between cross-kingdom microbes in diverse host species including humans, non-human primates, and insect disease vectors. I study both living and archaeological populations to better understand how host associated microbial communities have changed over time. 
 
 #### cool things I'm working on now:
 

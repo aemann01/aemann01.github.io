@@ -10,6 +10,31 @@ nav_order: 4
 <body>
   <!-- Content -->
   <div class="content">
+<h5>University of Wyoming</h5>
+<div class="card mt-3 #FFFFF">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Plagues and Peoples</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+       <a href="" class="badge font-weight-bold purple darken-4 text-uppercase align-middle">
+            ANTH 4022/5005
+        </a>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Fall 2024: Instructor of record</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">In this course, we will study the impact of diseases such as plague, smallpox, polio, rabies, and coronaviruses on human society – from their effects on populations to how they have influenced the course of history. We’ll identify social and cultural factors and conditions that influence or impede the rate of spread of contagious diseases. Additionally, we’ll examine several ethical issues that arise concerning the treatment of the sick and policies to halt epidemics, both in the past and today. A final section of the course will discuss the contemporary threat of emerging modern diseases.</li>
+      <li class="list-group-item"> <a 
+href="http://aemann01.github.io/assets/pdf/Plagues-F24.pdf" 
+target="_blank"><b>Course syllabus</b></a>.</li>
+    </ul>
+  </div>
+</div>
+<hr>
+  <div class="content">
+
 <h5>Clemson University   </h5>
 <div class="card mt-3 #FFFFF">
   <div class="p-3">
